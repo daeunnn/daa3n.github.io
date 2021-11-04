@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "daeunnn/daa3n.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/2021-11-04-image/daeunlogo.png"
+logo                     : "/assets/images/<img width="325" alt="daeunlogo" src="https://user-images.githubusercontent.com/89559182/140242972-329a4821-8013-4ecd-8ffb-384da7037ba3.PNG">.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
